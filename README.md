@@ -1,7 +1,7 @@
 # Proyecto-final- 
 Definimos proyecto: 
 1- Planificador de Tareas Educativas
-2- Plataforma de destino, visual Stdio /justificar
+2- Plataforma de destino.
 3- La interfaz permite agregar, mostrar y eliminar tareas con título, descripción opcional, fecha límite y prioridad (Alta, Media, Baja).
 4- Persistencia en DB.
 5-Se maneja validación básica para fechas y prioridades.

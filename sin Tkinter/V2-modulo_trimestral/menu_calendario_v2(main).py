@@ -32,7 +32,7 @@ def crear_menu(fila, columna, opciones, funciones, orientacion='V'):
 
     def mostrar_menu():
         os.system('cls' if os.name == 'nt' else 'clear')
-        print(f"📅 Calendario actual: {mes_actual:02d}/{año_actual}\n")
+        print(f" Calendario actual: {mes_actual:02d}/{año_actual}\n")
         calendarios_trimestral.mostrar_calendarios_trimestre(mes_actual, año_actual)
         print("\n" * fila)
 
@@ -104,3 +104,4 @@ funciones = [agregar_plan, editar_plan, borrar_plan, imprimir_plan, salir]
 
 # Ejecutar el menú
 crear_menu(fila=2, columna=10, opciones=opciones, funciones=funciones, orientacion='H')
+

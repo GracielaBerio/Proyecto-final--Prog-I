@@ -114,8 +114,9 @@ def mostrar_calendarios_trimestre(mes_inicial, año):
     for i in range(3):
         mes = (mes_inicial + i - 1) % 12 + 1
         año_actual = año + ((mes_inicial + i - 1) // 12)
-        print(f"\n📌 Tareas en {nombre_meses[mes-1]} {año_actual}:")
+        print(f"\n Tareas en {nombre_meses[mes-1]} {año_actual}:")
         mostrar_tareas_del_mes(mes, año_actual)
 
 # Ejemplo de uso
 mostrar_calendarios_trimestre(10, 2025)
+

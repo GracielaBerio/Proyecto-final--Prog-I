@@ -1,5 +1,5 @@
 '''
-Planificador de tareas - version 1.0
+Planificador de tareas 
 tkcalendar. Instalar: pip install tkcalendar
 Base de datos: tareas.db; id, titulo, descripcion, fecha_limite, prioridad
 '''

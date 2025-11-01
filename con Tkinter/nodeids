@@ -1,0 +1,9 @@
+[
+  "tests/test_planificador.py::test_actualizar_tarea",
+  "tests/test_planificador.py::test_agregar_y_obtener_tarea",
+  "tests/test_planificador.py::test_eliminar_tarea",
+  "tests/test_planificador.py::test_exportar_importar_csv",
+  "tests/test_planificador.py::test_exportar_importar_json",
+  "tests/test_planificador.py::test_parsear_fecha_invalida",
+  "tests/test_planificador.py::test_parsear_fecha_valida"
+]

@@ -1,9 +1,7 @@
 '''
-Planificador de tareas - versión 10
-Interfaz completa (basada en v5), textos y columnas en español.
-Requisitos: tkcalendar (opcional). Instalar: pip install tkcalendar
-Base de datos: tareas.db con columnas:
-    id, titulo, descripcion, fecha_limite, prioridad
+Planificador de tareas - version 1.0
+tkcalendar. Instalar: pip install tkcalendar
+Base de datos: tareas.db; id, titulo, descripcion, fecha_limite, prioridad
 '''
 import tkinter as tk
 from tkinter import ttk, messagebox
@@ -309,7 +307,7 @@ class AplicacionTareas:
     def mostrar_todas(self):
         self.refrescar_tareas(fecha_filtro=None)
 
-# ------------------- DIALOGO AGREGAR / EDITAR -------------------
+# ------------------- AGREGAR / EDITAR -------------------
 class DialogoAgregarEditar:
     def __init__(self, app, callback_refrescar, id_tarea=None, datos_tarea=None):
         self.app = app

@@ -1,0 +1,11 @@
+SISTEMA OPERATIVO
+• 	Windows 98 (recomendado Segunda Edición)
+• 	También compatible con Windows 95, Windows ME, Windows XP
+
+HARDWARE MÍNIMO
+• 	Procesador: Intel Pentium 200 MHz o superior
+• 	Memoria RAM: 32 MB (64 MB recomendado)
+• 	Disco duro: 10 MB libres
+• 	Pantalla: VGA 640x480 o superior
+• 	Entrada: Teclado
+• 	Salida: Consola de texto (MS-DOS o símbolo del sistema)

@@ -1,0 +1,8 @@
+Requerimentos del sistema
+ 
+Sistema operativo:
+Windows 10 o superior (versión de 64 bits recomendada)
+Espacio en disco:
+100 MB libres para instalación y archivos de datos
+Memoria RAM:
+4 GB mínimo (8 GB recomendados)
